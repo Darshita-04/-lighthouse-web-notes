@@ -1,5 +1,5 @@
 # Darshita's Notes
 
-# This is an H1 header (largest)
+## Summary
 
-###### This is an H6 header (smallest)
+This repository contains all of the notes taken by  [Darshita](https://github.com/Darshita-04/) for the Lighthouse Labs Web Development Bootcamp.
